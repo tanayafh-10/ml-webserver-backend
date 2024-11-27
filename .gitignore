@@ -1,0 +1,11 @@
+/node_modules
+.env
+package-lock.json
+# submissionmlgc-tanaya-98e35bf7be38.json
+# # submissionmlgc-tanaya-120efb177c5e.json
+# submissionmlgc-tanaya-d904567fee4a.json
+application_default_credentials.json
+
+
+submissionmlgc-tanaya-*.json
+application_default_credentials-*.json
